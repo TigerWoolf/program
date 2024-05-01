@@ -1,0 +1,58 @@
+C:\Users\Администратор\documents\visual studio 2010\Projects\ЖКР\ЖКР\obj\x86\Debug\ЖКР.glform.resources
+C:\Users\Администратор\documents\visual studio 2010\Projects\ЖКР\ЖКР\obj\x86\Debug\ЖКР.Properties.Resources.resources
+C:\Users\Администратор\documents\visual studio 2010\Projects\ЖКР\ЖКР\obj\x86\Debug\ЖКР.csproj.GenerateResource.Cache
+C:\Users\Администратор\documents\visual studio 2010\Projects\ЖКР\ЖКР\bin\Debug\ЖКР.exe.config
+C:\Users\Администратор\documents\visual studio 2010\Projects\ЖКР\ЖКР\bin\Debug\ЖКР.exe
+C:\Users\Администратор\documents\visual studio 2010\Projects\ЖКР\ЖКР\bin\Debug\ЖКР.pdb
+C:\Users\Администратор\documents\visual studio 2010\Projects\ЖКР\ЖКР\obj\x86\Debug\ЖКР.exe
+C:\Users\Администратор\documents\visual studio 2010\Projects\ЖКР\ЖКР\obj\x86\Debug\ЖКР.pdb
+C:\Users\Администратор\documents\visual studio 2010\Projects\ЖКР\ЖКР\obj\x86\Debug\ЖКР.editUchenik.resources
+C:\Users\Администратор\documents\visual studio 2010\Projects\ЖКР\ЖКР\obj\x86\Debug\ЖКР.editUsp.resources
+C:\Users\Администратор\documents\visual studio 2010\Projects\ЖКР\ЖКР\obj\x86\Debug\ЖКР.editVed.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Debug\ЖКР.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Debug\ЖКР.csproj.ResolveComReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Debug\ЖКР.otchet.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Debug\ЖКР.about.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\bin\Debug\ЖКР.exe.manifest
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\bin\Debug\ЖКР.application
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Debug\ЖКР.exe.manifest
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Debug\ЖКР.application
+C:\Users\Валера\Desktop\ЖКР\ЖКР\bin\Debug\kljour.sdf
+C:\Users\Валера\Desktop\ЖКР\ЖКР\bin\Debug\ЖКР.exe.config
+C:\Users\Валера\Desktop\ЖКР\ЖКР\bin\Debug\ЖКР.exe.manifest
+C:\Users\Валера\Desktop\ЖКР\ЖКР\bin\Debug\ЖКР.application
+C:\Users\Валера\Desktop\ЖКР\ЖКР\bin\Debug\ЖКР.exe
+C:\Users\Валера\Desktop\ЖКР\ЖКР\bin\Debug\ЖКР.pdb
+C:\Users\Валера\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.csprojResolveAssemblyReference.cache
+C:\Users\Валера\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.csproj.ResolveComReference.cache
+C:\Users\Валера\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.about.resources
+C:\Users\Валера\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.editUchenik.resources
+C:\Users\Валера\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.editUsp.resources
+C:\Users\Валера\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.editVed.resources
+C:\Users\Валера\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.glform.resources
+C:\Users\Валера\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.otchet.resources
+C:\Users\Валера\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.Properties.Resources.resources
+C:\Users\Валера\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.csproj.GenerateResource.Cache
+C:\Users\Валера\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.exe.manifest
+C:\Users\Валера\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.application
+C:\Users\Валера\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.exe
+C:\Users\Валера\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.pdb
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\bin\Debug\ЖКР.exe.config
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.csproj.ResolveComReference.cache
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.exe
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.pdb
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\bin\Debug\kljour.sdf
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\bin\Debug\ЖКР.exe.manifest
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\bin\Debug\ЖКР.application
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\bin\Debug\ЖКР.exe
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.csprojResolveAssemblyReference.cache
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.about.resources
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.editUchenik.resources
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.editUsp.resources
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.editVed.resources
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.glform.resources
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.Properties.Resources.resources
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.csproj.GenerateResource.Cache
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.exe.manifest
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\obj\x86\Debug\ЖКР.application
+C:\Users\Дэнчик\Desktop\ЖКР\ЖКР\bin\Debug\ЖКР.pdb

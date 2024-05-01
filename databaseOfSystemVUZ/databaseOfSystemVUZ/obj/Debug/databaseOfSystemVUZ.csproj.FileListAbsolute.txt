@@ -1,0 +1,214 @@
+C:\Users\Home\source\repos\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.exe.config
+C:\Users\Home\source\repos\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.exe
+C:\Users\Home\source\repos\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.pdb
+C:\Users\Home\source\repos\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Form1.resources
+C:\Users\Home\source\repos\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.login.resources
+C:\Users\Home\source\repos\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Plan.resources
+C:\Users\Home\source\repos\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Profil.resources
+C:\Users\Home\source\repos\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Properties.Resources.resources
+C:\Users\Home\source\repos\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.exe
+C:\Users\Home\source\repos\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.pdb
+C:\Users\Home\source\repos\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Stats.resources
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.exe.config
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.exe
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.pdb
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Google.Protobuf.dll
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\MySql.Data.dll
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Buffers.dll
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Memory.dll
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Zstandard.Net.dll
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Google.Protobuf.pdb
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Google.Protobuf.xml
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\MySql.Data.xml
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Buffers.xml
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Memory.xml
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Form1.resources
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.login.resources
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Plan.resources
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Profil.resources
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Properties.Resources.resources
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Stats.resources
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.GenerateResource.cache
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.CopyComplete
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.exe
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.pdb
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.info.resources
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.ResolveComReference.cache
+C:\Users\Денис\Desktop\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.StatusExports.resources
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.exe.config
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.exe
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.pdb
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\BouncyCastle.Crypto.dll
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Google.Protobuf.dll
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.dll
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Hash.xxHash.dll
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\MySql.Data.dll
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Buffers.dll
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Memory.dll
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Numerics.Vectors.dll
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Ubiety.Dns.Core.dll
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Zstandard.Net.dll
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Google.Protobuf.pdb
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Google.Protobuf.xml
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.xml
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Hash.xxHash.xml
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\MySql.Data.xml
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Buffers.xml
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Memory.xml
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Numerics.Vectors.xml
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csprojAssemblyReference.cache
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.ResolveComReference.cache
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Form1.resources
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.info.resources
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.login.resources
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Plan.resources
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Profil.resources
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Properties.Resources.resources
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Stats.resources
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.StatusExports.resources
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.GenerateResource.cache
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.CoreCompileInputs.cache
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.CopyComplete
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.exe
+D:\Myfiles\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.pdb
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.exe.config
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.exe
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.pdb
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\BouncyCastle.Crypto.dll
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Google.Protobuf.dll
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.dll
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Hash.xxHash.dll
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\MySql.Data.dll
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Buffers.dll
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Memory.dll
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Numerics.Vectors.dll
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Ubiety.Dns.Core.dll
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Zstandard.Net.dll
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Google.Protobuf.pdb
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Google.Protobuf.xml
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.xml
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Hash.xxHash.xml
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\MySql.Data.xml
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Buffers.xml
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Memory.xml
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Numerics.Vectors.xml
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csprojAssemblyReference.cache
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.ResolveComReference.cache
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Form1.resources
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.info.resources
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.login.resources
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Plan.resources
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Profil.resources
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Properties.Resources.resources
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Stats.resources
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.StatusExports.resources
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.GenerateResource.cache
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.CoreCompileInputs.cache
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.CopyComplete
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.exe
+E:\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.pdb
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.exe.config
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.exe
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.pdb
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\BouncyCastle.Crypto.dll
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Google.Protobuf.dll
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.dll
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Hash.xxHash.dll
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\MySql.Data.dll
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Buffers.dll
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Memory.dll
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Numerics.Vectors.dll
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Ubiety.Dns.Core.dll
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Zstandard.Net.dll
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Google.Protobuf.pdb
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Google.Protobuf.xml
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.xml
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Hash.xxHash.xml
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\MySql.Data.xml
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Buffers.xml
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Memory.xml
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Numerics.Vectors.xml
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csprojAssemblyReference.cache
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.ResolveComReference.cache
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Form1.resources
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.info.resources
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.login.resources
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Plan.resources
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Profil.resources
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Properties.Resources.resources
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Stats.resources
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.StatusExports.resources
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.GenerateResource.cache
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.CoreCompileInputs.cache
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.CopyComplete
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.exe
+D:\Myfiles\Дипломная работа (Денис)\Создать папку\Дипломная работа (Денис)\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.pdb
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.exe.config
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.exe
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\databaseOfSystemVUZ.pdb
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Google.Protobuf.dll
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\MySql.Data.dll
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Buffers.dll
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Memory.dll
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Zstandard.Net.dll
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Google.Protobuf.pdb
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\Google.Protobuf.xml
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\MySql.Data.xml
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Buffers.xml
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Memory.xml
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.AssemblyReference.cache
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.ResolveComReference.cache
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Form1.resources
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.info.resources
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.login.resources
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Plan.resources
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Profil.resources
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Properties.Resources.resources
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.Stats.resources
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.StatusExports.resources
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.GenerateResource.cache
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.CoreCompileInputs.cache
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.csproj.CopyComplete
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.exe
+C:\Users\pay4o\OneDrive\Рабочий стол\Дипломная работа (Денис)\ВКР и Курсовая Магистр 2022\databaseOfSystemVUZ\databaseOfSystemVUZ\obj\Debug\databaseOfSystemVUZ.pdb

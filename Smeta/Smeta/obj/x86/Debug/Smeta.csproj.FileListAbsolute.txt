@@ -1,0 +1,22 @@
+D:\УЧЕБА\Основы программирования\Smeta\Smeta\bin\Debug\SmetaBD.sdf
+D:\УЧЕБА\Основы программирования\Smeta\Smeta\bin\Debug\Smeta.exe.config
+D:\УЧЕБА\Основы программирования\Smeta\Smeta\bin\Debug\Smeta.exe
+D:\УЧЕБА\Основы программирования\Smeta\Smeta\bin\Debug\Smeta.pdb
+D:\УЧЕБА\Основы программирования\Smeta\Smeta\obj\x86\Debug\Smeta.Form1.resources
+D:\УЧЕБА\Основы программирования\Smeta\Smeta\obj\x86\Debug\Smeta.Properties.Resources.resources
+D:\УЧЕБА\Основы программирования\Smeta\Smeta\obj\x86\Debug\Smeta.csproj.GenerateResource.Cache
+D:\УЧЕБА\Основы программирования\Smeta\Smeta\obj\x86\Debug\Smeta.exe
+D:\УЧЕБА\Основы программирования\Smeta\Smeta\obj\x86\Debug\Smeta.pdb
+D:\УЧЕБА\Основы программирования\Smeta\Smeta\obj\x86\Debug\Smeta.csprojResolveAssemblyReference.cache
+D:\УЧЕБА\Основы программирования\Smeta\Smeta\obj\x86\Debug\Smeta.csproj.ResolveComReference.cache
+C:\Users\Дэнчик\Desktop\Smeta\Smeta\bin\Debug\Smeta.exe.config
+C:\Users\Дэнчик\Desktop\Smeta\Smeta\obj\x86\Debug\Smeta.csproj.ResolveComReference.cache
+C:\Users\Дэнчик\Desktop\Smeta\Smeta\obj\x86\Debug\Smeta.exe
+C:\Users\Дэнчик\Desktop\Smeta\Smeta\obj\x86\Debug\Smeta.pdb
+C:\Users\Дэнчик\Desktop\Smeta\Smeta\bin\Debug\SmetaBD.sdf
+C:\Users\Дэнчик\Desktop\Smeta\Smeta\bin\Debug\Smeta.exe
+C:\Users\Дэнчик\Desktop\Smeta\Smeta\bin\Debug\Smeta.pdb
+C:\Users\Дэнчик\Desktop\Smeta\Smeta\obj\x86\Debug\Smeta.csprojResolveAssemblyReference.cache
+C:\Users\Дэнчик\Desktop\Smeta\Smeta\obj\x86\Debug\Smeta.Form1.resources
+C:\Users\Дэнчик\Desktop\Smeta\Smeta\obj\x86\Debug\Smeta.Properties.Resources.resources
+C:\Users\Дэнчик\Desktop\Smeta\Smeta\obj\x86\Debug\Smeta.csproj.GenerateResource.Cache

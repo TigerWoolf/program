@@ -1,0 +1,24 @@
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\bin\Release\ЖКР.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Release\ЖКР.csproj.ResolveComReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\bin\Release\ЖКР.exe.manifest
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\bin\Release\ЖКР.application
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\bin\Release\ЖКР.exe
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\bin\Release\ЖКР.pdb
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Release\ЖКР.about.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Release\ЖКР.editUchenik.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Release\ЖКР.editUsp.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Release\ЖКР.editVed.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Release\ЖКР.glform.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Release\ЖКР.otchet.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Release\ЖКР.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Release\ЖКР.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Release\ЖКР.exe.manifest
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Release\ЖКР.application
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Release\ЖКР.exe
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\ЖКР\ЖКР\obj\x86\Release\ЖКР.pdb
+C:\Users\Администратор\documents\visual studio 2010\Projects\ЖКР\ЖКР\bin\Release\kljour.sdf
+C:\Users\Администратор\documents\visual studio 2010\Projects\ЖКР\ЖКР\obj\x86\Release\ЖКР.csprojResolveAssemblyReference.cache
+C:\Users\Валера\Desktop\ЖКР\ЖКР\bin\Release\ЖКР.exe.config
+C:\Users\Валера\Desktop\ЖКР\ЖКР\obj\x86\Release\ЖКР.csproj.ResolveComReference.cache
+C:\Users\Валера\Desktop\ЖКР\ЖКР\obj\x86\Release\ЖКР.exe
+C:\Users\Валера\Desktop\ЖКР\ЖКР\obj\x86\Release\ЖКР.pdb
